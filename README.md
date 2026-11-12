@@ -25,7 +25,6 @@
 - JavaScript
 - React
 - Git & GitHub
-- GSAP
 
 ### 📌 Featured Projects
 
