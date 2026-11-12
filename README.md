@@ -29,7 +29,6 @@
 ### 📌 Featured Projects
 
 - **Engivaro** – An English tools platform.
-- **BlueCart** – A modern e-commerce website.
 - **Personal Portfolio** – My personal developer website.
 
 ### 🌐 Connect With Me
