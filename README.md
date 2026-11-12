@@ -1,16 +1,45 @@
-## Hi there 👋
 
-<!--
-**AdrianHafeziCoder/AdrianHafeziCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm Adrian Hafezi 👋</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">
+  Front-End Developer | Web Designer
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  Building modern, responsive and interactive web experiences.
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+- 🌱 Currently improving my skills in Front-End Development.
+- 💻 Passionate about modern web design and development.
+- 🎯 Focused on building clean and user-friendly interfaces.
+- 🚀 Always learning and exploring new technologies.
+
+### 🛠️ Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript
+- React
+- Git & GitHub
+- GSAP
+
+### 📌 Featured Projects
+
+- **Engivaro** – An English tools platform.
+- **BlueCart** – A modern e-commerce website.
+- **Personal Portfolio** – My personal developer website.
+
+### 🌐 Connect With Me
+
+- LinkedIn: [Adrian Hafezi](https://www.linkedin.com/in/adrian-hafezi-b51b2b414/)
+- GitHub: [@AdrianHafeziCoder](https://github.com/AdrianHafeziCoder)
+
+---
+
+<p align="center">
+  Thanks for visiting my profile! ⭐
+</p>
