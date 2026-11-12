@@ -35,7 +35,7 @@
 
 - LinkedIn: [Adrian Hafezi](https://www.linkedin.com/in/adrian-hafezi-b51b2b414/)
 - GitHub: [@AdrianHafeziCoder](https://github.com/AdrianHafeziCoder)
-- Telegram: [https://t.me/Adrian_Hafezi)
+- Telegram: [Adrian Hafezi](https://t.me/Adrian_Hafezi)
 
 ---
 
